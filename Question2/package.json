@@ -14,7 +14,7 @@
     "images",
     "mongodb"
   ],
-  "author": "bezkoder",
+  "author": "dilshan",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
